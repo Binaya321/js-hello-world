@@ -5,7 +5,7 @@ to the console (the panel on the right)
 */
 
 console.log("5+7, 10+7");
-console.log("\"Life is too mysterious to understand and difficult at times. Let's code\"")
+console.log("\"Let's code\"")
 console.log("\"It's not going to be an easy ride lol\"")
 /*  
 Next, PLAY! 
