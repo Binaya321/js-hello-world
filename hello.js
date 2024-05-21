@@ -4,8 +4,9 @@ Enter your code on line 7 to print 'Hello, World!'
 to the console (the panel on the right)
 */
 
-console.log("Hello");
-
+console.log("5+7, 10+7");
+console.log("\"Life is too mysterious to understand and difficult at times. Let's code\"")
+console.log("\"It's not going to be an easy ride lol\"")
 /*  
 Next, PLAY! 
 Modify your code on line 7 to try to accomplish the tasks listed below:
