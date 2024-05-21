@@ -6,7 +6,7 @@ to the console (the panel on the right)
 
 console.log("5+7, 10+7");
 console.log("\"Let's code\"")
-console.log("\"It's not going to be an easy ride lol\"")
+console.log("\"Let's learn to do new things!\"")
 /*  
 Next, PLAY! 
 Modify your code on line 7 to try to accomplish the tasks listed below:
